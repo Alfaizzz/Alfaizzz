@@ -1,4 +1,4 @@
-f<h1 align="center">Hi 👋, I'm Al Faiz Khan</h1>
+<h1 align="center">Hi 👋, I'm Al Faiz Khan</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <div align="center">
