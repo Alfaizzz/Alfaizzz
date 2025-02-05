@@ -16,29 +16,29 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd16kaif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd16kaif&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlFaizKhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlFaizKhan&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" width="400"/>
 </div>
 
 ---
 
 ## 🔥 Contribution Graph  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd16kaif&theme=react-dark&bg_color=1a1b27&hide_border=true&radius=15" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlFaizKhan&theme=react-dark&bg_color=1a1b27&hide_border=true&radius=15" alt="GitHub Contribution Graph" />
 </div>
 
 ---
 
-## 🎖️ Achievements  
+## 🏆 Achievements  
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohd16kaif&theme=gruvbox&no-frame=true&margin-w=15&row=1&border_radius=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AlFaizKhan&theme=gruvbox&no-frame=true&margin-w=15&row=1&border_radius=15" alt="Trophies" />
   </a>
 </div>
 
 ---
 
-## 📬 Connect with Me  
+## 📩 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/al-faiz-khann/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&border_radius=15" />
